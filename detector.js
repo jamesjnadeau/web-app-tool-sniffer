@@ -341,6 +341,9 @@
     'SegmentIO': function () {
       return window.Segment;
     },
+    'React': function() {
+      return !!document.querySelector('[data-reactid]');
+    },
   };
 
   for (var t in js_tests) {

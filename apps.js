@@ -830,6 +830,11 @@ var appinfo = {
     url: 'http://d3js.org/',
     priority: 1
   },
+  'React': {
+    icon: 'reactjs.png',
+    url: 'https://facebook.github.io/react/',
+    priority: 1
+  },
 
   // ==== misc ====
   '': { // default
