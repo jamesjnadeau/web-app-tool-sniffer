@@ -5,7 +5,8 @@
 		"48": "icon48.png",
 		"128": "icon128.png"
 	},
-	"version": "0.4",
+
+	"version": "0.5",
 	"description": "Detect web applications, tools, and javascript libraries running on the websites you browse. Source Code: https://github.com/jamesjnadeau/chromesniffer",
 	"background": {
     "page": "background.html"
