@@ -825,6 +825,11 @@ var appinfo = {
     url: 'https://www.typography.com/',
     priority: 1
   },
+  'd3': {
+    icon: 'd3js.png',
+    url: 'http://d3js.org/',
+    priority: 1
+  },
 
   // ==== misc ====
   '': { // default
