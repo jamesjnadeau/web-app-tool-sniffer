@@ -326,13 +326,13 @@
     'LiveStreet': function () {
       return window.LIVESTREET_SECURITY_KEY;
     },
-	'OpenLayers': function () {
+	  'OpenLayers': function () {
       return window.OpenLayers;
     },
     'Zepto': function () {
       return window.Zepto;
-    }
-	'Olark': function () {
+    },
+	  'Olark': function () {
       return window.olark;
     },
     'SegmentIO': function () {
